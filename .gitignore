@@ -71,6 +71,9 @@ logs/
 .Trashes
 ehthumbs.db
 
+# University presentation files (internal only)
+presentation/
+
 # Secrets / API keys
 .env
 *.env
