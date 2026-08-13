@@ -149,14 +149,8 @@ A naive classifier that always predicts "Real" would achieve **95.16% accuracy**
 ├── notebooks/
 │   └── fake_job_postings_detection.ipynb   # Full analysis notebook
 │
-├── presentation/
-│   ├── fake_job_posting_detection_presentation.pptx
-│   ├── presentation_deck.md
-│   └── final_project_defense_guide.md
-│
 ├── download_dataset.py             # Script to auto-download the dataset
 ├── generate_notebook.py            # Script that generates the Jupyter notebook
-├── generate_slides.py              # Script that generates the presentation
 ├── requirements.txt                # Python dependencies
 └── README.md
 ```
