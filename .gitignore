@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-link
+*.manifest
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Data files (large CSVs)
+data/*.csv
+data/*.tsv
+data/*.parquet
+data/*.pkl
+data/*.joblib
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+models/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Secrets / API keys
+.env
+*.env
+secrets.json
